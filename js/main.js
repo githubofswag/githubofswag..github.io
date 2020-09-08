@@ -27,7 +27,7 @@ Version:	1.1
 	18. Animate Scroll JS
 	19. Scroll Up JS
 	20. Video Popup JS
-	21. Extra JS
+	22. Extra JS
 =========================================
 [End Activation Code]
 =========================================*/ 
