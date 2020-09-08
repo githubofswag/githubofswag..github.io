@@ -296,7 +296,7 @@ input:-webkit-autofill:focus {
 }
 /*Bread Crumbs */
 .breadcrumbs {
-	background: url('http://via.placeholder.com/1600x500');
+	background: url('images/slider/servicesbg.png');
 	background-position: 100%;
 	position: relative;
 	background-repeat: no-repeat;
@@ -321,7 +321,7 @@ input:-webkit-autofill:focus {
 	color: #fff;
 	text-transform: capitalize;
 	font-size: 45px;
-	padding: 40px 0;
+	padding: 20px 0;
 }
 .breadcrumbs .bread-list {
 	border-radius: 3px;
