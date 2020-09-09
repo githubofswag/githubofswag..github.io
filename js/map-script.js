@@ -5,8 +5,8 @@ $(document).ready(function(){
 	var map;
 	map = new GMaps({
 		el: '#myMap',
-		lat: 40.626299,
-		lng: -74.153694,
+		lat: 32.9288623,
+		lng: -96.8391108,
 		scrollwheel:false,
 		zoom: 15,
 		zoomControl : false,
@@ -19,8 +19,8 @@ $(document).ready(function(){
 
 	var image = 'images/pin.png';
 	map.addMarker({
-		lat: 40.626299,
-		lng: -74.153694,
+		lat: 32.9288623,
+		lng: -96.8391108,
 		icon: image,
 		animation: google.maps.Animation.DROP,
 		verticalAlign: 'bottom',
