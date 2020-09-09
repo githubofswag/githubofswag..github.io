@@ -149,11 +149,24 @@ Version:	1.1
 		$('.single-team.four').on( "click", function(){
 			$('.team-details.four').toggleClass('active');
 		});	
+		$('.single-team.five').on( "click", function(){
+			$('.team-details.five').toggleClass('active');
+		});
+		$('.single-team.six').on( "click", function(){
+			$('.team-details.six').toggleClass('active');
+		});
+
+		$('.single-team.seven').on( "click", function(){
+			$('.team-details.seven').toggleClass('active');
+		});
+		$('.single-team.eight').on( "click", function(){
+			$('.team-details.eight').toggleClass('active');
+		});
 		$('.team-details .cross').on( "click", function(){
-			$('.team-details.one, .team-details.two, .team-details.three, .team-details.four').removeClass('active');
+			$('.team-details.one, .team-details.two, .team-details.three, .team-details.four, .team-details.five, .team-details.six, .team-details.seven, .team-details.eight').removeClass('active');
 		});	
 		$('.team-details').perfectScrollbar(); 
-		
+
 		/*===============================
 		09. Testimonial JS
 		=================================*/ 
