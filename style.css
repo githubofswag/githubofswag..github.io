@@ -2307,8 +2307,8 @@ input:-webkit-autofill:focus {
 	width: 28px;
 	height: 28px;
 	line-height: 28px;
-	opacity: 0;
-	visibility:hidden;
+	opacity: 1;
+	visibility:visible;
 	font-weight:400;
 	text-align: center;
 	color: #fff;
