@@ -4618,7 +4618,7 @@ input:-webkit-autofill:focus {
 /* Dark Style */
 .footer.dark .footer-top{
 	background-color: #353535 !important;
-	background-image:none;
+	background-image: url("images/footer-bg-black.png");
 }
 .footer.dark h2{
 	color:#fff;
