@@ -4483,7 +4483,7 @@ input:-webkit-autofill:focus {
 .footer .footer-top {
 	padding: 40px 0 70px;
 	background-color: #fff !important;
-	background-image: url("images/footer-bg.png");
+	background-image: url("images/footer-bg-black.png");
 	background-repeat: repeat !important;
 	background-attachment: scroll !important;
 	background-clip: border-box !important;
@@ -4495,7 +4495,7 @@ input:-webkit-autofill:focus {
 	margin-top:30px;
 }
 .footer .footer-top h2 {
-	color: #353535;
+	color: #fff;
 	font-size: 18px;
 	text-transform: uppercase;
 	display: block;
@@ -4503,7 +4503,7 @@ input:-webkit-autofill:focus {
 	position: relative;
 }
 .footer .footer-top li {
-	color: #555;
+	color: #fff;
 	position: relative;
 	margin-bottom: 10px;
 }
