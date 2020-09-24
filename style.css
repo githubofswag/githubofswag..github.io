@@ -1725,7 +1725,7 @@ input:-webkit-autofill:focus {
 	color:#fff;
 }
 .why-choose .choose-main {
-	padding: 71px 40px;
+	padding: 60px 40px;
 }
 .why-choose .single-choose {
 	position: relative;
@@ -1764,8 +1764,8 @@ input:-webkit-autofill:focus {
 	top: 14px;
 }
 .why-choose .single-choose h4 {
-	margin: 0 0 10px;
-	font-size: 18px;
+	margin: 0 0 4px;
+	font-size: 15px;
 	color: #fff;
 }
 .why-choose .single-choose p{
