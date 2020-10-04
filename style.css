@@ -1070,6 +1070,17 @@ input:-webkit-autofill:focus {
 	letter-spacing: 4px;
 	line-height: initial;
 }
+.hero-area .slide-text h1 .short2 {
+	font-size: 20px;
+	position: relative;
+	display: block;
+	font-weight: 400;
+	margin-bottom:10px;
+	text-transform: capitalize;
+	color: #555;
+	letter-spacing: 2px;
+	line-height: initial;
+}
 .hero-area .slide-text h1:before{
 	position: absolute;
 	left: 0;
