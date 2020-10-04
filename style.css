@@ -2123,7 +2123,7 @@ input:-webkit-autofill:focus {
 .projects.single .single-info {
 	margin-bottom: 20px;
 	position: relative;
-	padding-left: 23px;
+	padding-left: 10px;
 }
 .projects.single .single-info:last-child{
 	margin:0;
