@@ -1023,14 +1023,14 @@ input:-webkit-autofill:focus {
 =========================*/ 
 .hero-area{
 	position: relative;	
-	height: 580px;
+	height: 600px;
 	overflow:hidden;
 }
 .hero-area .single-slider {
 	background-size:cover;
 	background-position:center;
 	background-repeat:no-repeat;
-	height: 580px;
+	height: 600px;
 	position: relative;
 	position:relative;
 }
@@ -1047,7 +1047,7 @@ input:-webkit-autofill:focus {
 	-ms-flex-pack: center;
 	justify-content: center;
 	width: 100%;
-	height: 580px;
+	height: 600px;
 }
 .hero-area .slide-text h1 {
 	font-size: 55px;
