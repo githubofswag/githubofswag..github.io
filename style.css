@@ -528,7 +528,7 @@ input:-webkit-autofill:focus {
 	color: #fff;
 	text-transform: uppercase;
 	font-size: 14px;
-	padding: 22px 15px;
+	padding: 22px 30px;
 	position: relative;
 	font-weight: 500;
 	display: block;
