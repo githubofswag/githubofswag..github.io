@@ -214,6 +214,9 @@ ul li {
 .mobile-nav{
 	display:none;
 }
+.mobile-nav2{
+	display:none;
+}
 .clearfix:before,
 .clearfix:after {
     content: " "; /* 1 */
@@ -4579,7 +4582,6 @@ input:-webkit-autofill:focus {
 }
 .footer .footer-top .single-tweet {
 	position: relative;
-	padding-left: 30px;
 	margin-bottom: 10px;
 }
 .footer .footer-top .single-tweet:last-child{
