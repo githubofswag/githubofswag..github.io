@@ -2685,14 +2685,7 @@ input:-webkit-autofill:focus {
 	top: 0px;
 }
 
-.testimonials .testimonial-info img:hover {
-	-webkit-transform: rotate(1800deg);
-	transform: rotate(1800deg);
-	-webkit-transition: -webkit-transform 10000ms cubic-bezier(0.250, 0.250, 0.750, 0.750), border-color .35s ease;
-	-moz-transition: transform 10000ms cubic-bezier(0.250, 0.250, 0.750, 0.750), border-color .35s ease;
-	-o-transition: transform 10000ms cubic-bezier(0.250, 0.250, 0.750, 0.750), border-color .35s ease;
-	transition: transform 10000ms cubic-bezier(0.250, 0.250, 0.750, 0.750), border-color .35s ease;
-}
+
 .testimonials .testimonial-info h6 {
 	font-size: 18px;
 	text-transform: uppercase;
@@ -4509,6 +4502,8 @@ input:-webkit-autofill:focus {
 }
 .footer .footer-top .single-widget{
 	margin-top:30px;
+	padding-right:20px;
+	padding-left:20px;
 }
 .footer .footer-top h2 {
 	color: #fff;
