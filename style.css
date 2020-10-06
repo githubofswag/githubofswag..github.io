@@ -1550,6 +1550,14 @@ input:-webkit-autofill:focus {
 }
 .services .single-sidebar.service img {
 	display: inline-block;
+	opacity: 1;
+	-webkit-transition: all 0.4s ease;
+	-moz-transition: all 0.4s ease;
+	transition: all 0.4s ease;
+	width: 100%;
+}
+.services .single-sidebar.service2 img {
+	display: inline-block;
 	opacity: 0.2;
 	-webkit-transition: all 0.4s ease;
 	-moz-transition: all 0.4s ease;
