@@ -4502,7 +4502,7 @@ input:-webkit-autofill:focus {
 }
 .footer .footer-top .single-widget{
 	margin-top:30px;
-	padding-right:20px;
+	padding-right:0px;
 	padding-left:20px;
 }
 .footer .footer-top h2 {
