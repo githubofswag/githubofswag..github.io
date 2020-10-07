@@ -2157,6 +2157,9 @@ input:-webkit-autofill:focus {
 .projects.single .single-info a {
 	color: #fff;
 }
+.projects.single .single-info p {
+	color: #fff;
+}
 .projects.single .brochure {
 	text-align: center;
 	padding: 0;
